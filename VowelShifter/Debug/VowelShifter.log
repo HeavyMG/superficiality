@@ -1,0 +1,3 @@
+﻿  shifter.cpp
+g:\construction\c++ 2017\vowelshifter\vowelshifter\shifter.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  VowelShifter.vcxproj -> G:\Construction\C++ 2017\VowelShifter\Debug\VowelShifter.exe

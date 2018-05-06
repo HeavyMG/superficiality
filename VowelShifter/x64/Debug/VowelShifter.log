@@ -1,0 +1,4 @@
+﻿  shifter.cpp
+g:\construction\c++ 2017\vowelshifter\vowelshifter\shifter.cpp(88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\construction\c++ 2017\vowelshifter\vowelshifter\shifter.cpp(108): warning C4551: function call missing argument list
+  VowelShifter.vcxproj -> G:\Construction\C++ 2017\VowelShifter\x64\Debug\VowelShifter.exe
